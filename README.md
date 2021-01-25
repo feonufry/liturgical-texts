@@ -4,3 +4,4 @@
 Иерусалимскому уставу. 
 
 - [Триодь](triodion/README.md)
+- [Минея](menaion/README.md)
